@@ -1,0 +1,168 @@
+2021-12-01 18:18:47.889 [DEBU] [default]Debug 
+2021-12-01 18:18:47.890 [INFO] [default]Info 
+2021-12-01 18:18:47.890 [WARN] [default]Warning 
+2021-12-01 18:18:47.892 [ERRO] [default]Error 
+Stack:
+1.  main.main
+    D:/gostudy/web/main.go:17
+ 
+2021-12-01 18:20:57.914 [DEBU] [default]Debug 
+2021-12-01 18:20:57.915 [INFO] [default]Info 
+2021-12-01 18:20:57.915 [WARN] [default]Warning 
+2021-12-01 18:20:57.915 [ERRO] [default]Error 
+Stack:
+1.  main.main
+    D:/gostudy/web/main.go:17
+ 
+2021-12-01 18:22:42.334 [DEBU] [default]Debug 
+2021-12-01 18:22:42.334 [INFO] [default]Info 
+2021-12-01 18:22:42.336 [WARN] [default]Warning 
+2021-12-01 18:22:42.336 [ERRO] [default]Error 
+Stack:
+1.  main.main
+    D:/gostudy/web/main.go:17
+ 
+2021-12-01 18:23:54.851 [DEBU] [default]Debug 
+2021-12-01 18:23:54.851 [INFO] [default]Info 
+2021-12-01 18:23:54.851 [WARN] [default]Warning 
+2021-12-01 18:23:54.853 [ERRO] [default]Error 
+Stack:
+1.  main.main
+    D:/gostudy/web/main.go:17
+ 
+2021-12-01 18:25:35.146 [DEBU] [default]Debug 
+2021-12-01 18:25:35.147 [INFO] [default]Info 
+2021-12-01 18:25:35.147 [WARN] [default]Warning 
+2021-12-01 18:25:35.148 [ERRO] [default]Error 
+Stack:
+1.  main.main
+    D:/gostudy/web/main.go:17
+ 
+2021-12-01 18:27:40.632 [DEBU] [default]Debug 
+2021-12-01 18:27:40.633 [INFO] [default]Info 
+2021-12-01 18:27:40.634 [WARN] [default]Warning 
+2021-12-01 18:27:40.634 [ERRO] [default]Error 
+Stack:
+1.  main.main
+    D:/gostudy/web/main.go:17
+ 
+2021-12-01 18:33:20.740 [DEBU] [default]Debug 
+2021-12-01 18:33:20.741 [INFO] [default]Info 
+2021-12-01 18:33:20.741 [WARN] [default]Warning 
+2021-12-01 18:33:20.742 [ERRO] [default]Error 
+Stack:
+1.  main.main
+    D:/gostudy/web/main.go:17
+ 
+2021-12-01 19:11:45.018 [DEBU] [default]Debug 
+2021-12-01 19:11:45.019 [INFO] [default]Info 
+2021-12-01 19:11:45.019 [WARN] [default]Warning 
+2021-12-01 19:11:45.019 [ERRO] [default]Error 
+Stack:
+1.  main.main
+    D:/gostudy/web/main.go:17
+ 
+2021-12-01 21:09:58.445 [DEBU] [default]Debug 
+2021-12-01 21:09:58.445 [INFO] [default]Info 
+2021-12-01 21:09:58.446 [WARN] [default]Warning 
+2021-12-01 21:09:58.446 [ERRO] [default]Error 
+Stack:
+1.  main.main
+    D:/gostudy/web/main.go:17
+ 
+2021-12-01 21:10:25.303 [DEBU] [default]Debug 
+2021-12-01 21:10:25.303 [INFO] [default]Info 
+2021-12-01 21:10:25.304 [WARN] [default]Warning 
+2021-12-01 21:10:25.304 [ERRO] [default]Error 
+Stack:
+1.  main.main
+    D:/gostudy/web/main.go:17
+ 
+2021-12-01 21:11:15.175 [DEBU] [default]Debug 
+2021-12-01 21:11:15.175 [INFO] [default]Info 
+2021-12-01 21:11:15.176 [WARN] [default]Warning 
+2021-12-01 21:11:15.176 [ERRO] [default]Error 
+Stack:
+1.  main.main
+    D:/gostudy/web/main.go:17
+ 
+2021-12-01 21:12:23.491 [DEBU] [default]Debug 
+2021-12-01 21:12:23.492 [INFO] [default]Info 
+2021-12-01 21:12:23.492 [WARN] [default]Warning 
+2021-12-01 21:12:23.493 [ERRO] [default]Error 
+Stack:
+1.  main.main
+    D:/gostudy/web/main.go:17
+ 
+2021-12-01 21:12:59.489 [DEBU] [default]Debug 
+2021-12-01 21:12:59.489 [INFO] [default]Info 
+2021-12-01 21:12:59.490 [WARN] [default]Warning 
+2021-12-01 21:12:59.490 [ERRO] [default]Error 
+Stack:
+1.  main.main
+    D:/gostudy/web/main.go:17
+ 
+2021-12-01 21:13:49.473 [DEBU] [default]Debug 
+2021-12-01 21:13:49.473 [INFO] [default]Info 
+2021-12-01 21:13:49.475 [WARN] [default]Warning 
+2021-12-01 21:13:49.476 [ERRO] [default]Error 
+Stack:
+1.  main.main
+    D:/gostudy/web/main.go:17
+ 
+2021-12-01 21:25:21.615 [DEBU] [default]Debug 
+2021-12-01 21:25:21.616 [INFO] [default]Info 
+2021-12-01 21:25:21.617 [WARN] [default]Warning 
+2021-12-01 21:25:21.617 [ERRO] [default]Error 
+Stack:
+1.  main.main
+    D:/gostudy/web/main.go:17
+ 
+2021-12-01 21:26:36.325 [DEBU] [default]Debug 
+2021-12-01 21:26:36.325 [INFO] [default]Info 
+2021-12-01 21:26:36.326 [WARN] [default]Warning 
+2021-12-01 21:26:36.326 [ERRO] [default]Error 
+Stack:
+1.  main.main
+    D:/gostudy/web/main.go:17
+ 
+2021-12-01 21:59:57.177 [DEBU] [default]Debug 
+2021-12-01 21:59:57.177 [INFO] [default]Info 
+2021-12-01 21:59:57.178 [WARN] [default]Warning 
+2021-12-01 21:59:57.178 [ERRO] [default]Error 
+Stack:
+1.  main.main
+    D:/gostudy/web/main.go:17
+ 
+2021-12-01 22:00:48.064 [DEBU] [default]Debug 
+2021-12-01 22:00:48.065 [INFO] [default]Info 
+2021-12-01 22:00:48.065 [WARN] [default]Warning 
+2021-12-01 22:00:48.066 [ERRO] [default]Error 
+Stack:
+1.  main.main
+    D:/gostudy/web/main.go:17
+ 
+2021-12-01 22:03:18.712 [DEBU] [default]Debug 
+2021-12-01 22:03:18.712 [INFO] [default]Info 
+2021-12-01 22:03:18.713 [WARN] [default]Warning 
+2021-12-01 22:03:18.713 [ERRO] [default]Error 
+Stack:
+1.  main.main
+    D:/gostudy/web/main.go:17
+ 
+2021-12-01 22:05:19.934 [DEBU] [default]Debug 
+2021-12-01 22:05:19.934 [INFO] [default]Info 
+2021-12-01 22:05:19.935 [WARN] [default]Warning 
+2021-12-01 22:05:19.935 [ERRO] [default]Error 
+Stack:
+1.  main.main
+    D:/gostudy/web/main.go:17
+ 
+2021-12-01 22:06:15.110 [DEBU] [default]Debug 
+2021-12-01 22:06:15.111 [INFO] [default]Info 
+2021-12-01 22:06:15.112 [WARN] [default]Warning 
+2021-12-01 22:06:15.112 [ERRO] [default]Error 
+Stack:
+1.  main.main
+    D:/gostudy/web/main.go:17
+ 

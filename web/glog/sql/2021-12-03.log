@@ -1,0 +1,2 @@
+2021-12-03 01:09:46.344 [DEBU] [  0 ms] [default] select * from go_users where name='admin123' && password='fcea920f7412b5da7be0cf42b8c93759' 
+2021-12-03 01:09:48.237 [DEBU] [  0 ms] [default] select * from go_users where name='admin123' && password='fcea920f7412b5da7be0cf42b8c93759' 

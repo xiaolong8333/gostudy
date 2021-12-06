@@ -1,0 +1,8 @@
+2021-12-06 20:25:50.506 [DEBU] [default]Debug 
+2021-12-06 20:25:50.506 [INFO] [default]Info 
+2021-12-06 20:25:50.506 [WARN] [default]Warning 
+2021-12-06 20:25:50.507 [ERRO] [default]Error 
+Stack:
+1.  main.main
+    D:/gostudy/web/main.go:17
+ 
